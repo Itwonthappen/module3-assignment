@@ -1,0 +1,88 @@
+.container-fluid {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  border-radius: 1px;
+  background-color: rgba(88, 82, 60, 90);
+}
+
+.navbar-brand {
+  font-size: 35px;
+  color: white;
+  padding-left: 25px;
+}
+
+.navbar-brand:hover {
+  color: #14783B;
+}
+
+.nav {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-nav {
+  font-size: 50px;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-toggle {
+  border: 10px solid black;
+  margin-right: 100px;
+}
+
+.icon-bar {
+  background-color: white;
+}
+
+.main-title {
+  margin-bottom: 15px;
+  text-align: center;
+  color: #0F91B9;
+  font-size: 80px;
+  font-family: "Times New Roman", cursive, sans-serif;
+  font-weight: bold;
+}
+
+li {
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.menuitem {
+  padding: 0;
+  margin: ;
+  width: 100%;
+  background-color: #FFFFFF;
+  border-bottom: 1px solid black;
+  color: black;
+  display: block;
+}
+
+.menuitem:hover {
+  background-color: rgba(0, 0, 0, 0.9);
+  color: rgba(0, 1, 2, 0.4);
+}
+
+.row {
+  margin: 20px;
+}
+
+.content-box {
+  margin: 20px;
+  width: auto;
+  height: auto;
+  color: rgb(35,28,27);
+  background-color: #9F9492;
+  font-family: "Times", sans-serif;
+  padding: 20px;
+}
+
+.item-name {
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}
